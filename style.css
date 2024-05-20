@@ -1,0 +1,23 @@
+
+body{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background:linear-gradient(to bottom, #ffffff, #333);
+  ?color: rgb(255, 255, 255);
+  text-align: center;
+  
+}
+
+.header{
+  color: black;
+  text-align-last: center;
+  transition: background-color 0.3s ease, color 0.3s ease;   
+}
+.header:hover{
+  background-color: #45a049;
+  color: #fff;
+}
+
+footer{
+  font-size: xx-small;
+  
+}
